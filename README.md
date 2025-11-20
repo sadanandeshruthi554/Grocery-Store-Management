@@ -145,4 +145,4 @@ USE GROCERY_STORE;
    - SADANANDE SHRUTHI
    - Aspiring Data Analyst
    - Skilled in Power BI, Python, SQL, EDA, and Statistics
-   - Linkdin :www.linkedin.com/in/sadanande-shruthi-630597256
+   - Linkdin : www.linkedin.com/in/sadanande-shruthi-630597256
