@@ -138,3 +138,11 @@ USE GROCERY_STORE;
 ### ✅ Conclusion
 
 - The Grocery Store Management System helps automate store activities, reduce manual work, and provide accurate insights. SQL makes it easier to track products, customers, sales, and inventory—leading to better decision-making and efficient store operations.
+----------
+### 🔗 Live Dashboard
+- you can download the .pbix file from this repository and view it in Power BI Desktop.
+- 👩‍💻 About Me
+   - SADANANDE SHRUTHI
+   - Aspiring Data Analyst
+   - Skilled in Power BI, Python, SQL, EDA, and Statistics
+   - Linkdin :www.linkedin.com/in/sadanande-shruthi-630597256
